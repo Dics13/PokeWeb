@@ -1,0 +1,31 @@
+.div0{
+  position:relative;
+  background-image:url("../image/pikachus.jpg");
+  padding:400px 500px;
+  
+} 
+   
+.div{
+   background-image:url("../image/pikachu.jpg"); 
+   background-repeat: no-repeat;
+   border:10px solid rgb(230, 229, 225);
+   border-radius:100%;
+   top:150px;
+   position:absolute;
+   width: 285px;
+   height:255px;
+   left:480px;
+   
+}
+ 
+.button{
+    background-color: rgb(230, 229, 225);
+    position:absolute;
+    top:30px;
+    left: 600px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border-width: 0.5px;
+   }
+
+

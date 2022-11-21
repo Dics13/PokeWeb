@@ -1,0 +1,64 @@
+.div{
+    padding: 325px 500px;
+    position: relative;
+    background-image:url("../image/pikachus.jpg");
+}
+
+.form{
+  position:absolute;
+  top:100px;
+  background-color: rgb(250, 247, 233);
+  border: 0.7px solid rgba(228, 179, 20, 0.966);
+  border-radius:10px;
+  
+}
+.title{
+ position: absolute;
+ background-color: rgb(250, 247, 233);
+  border: 0.7px solid rgba(228, 179, 20, 0.966);
+  border-radius:10px;
+ font-family: monospace;
+ font-size: x-large;
+ font-style: italic;
+ font-weight: bold;
+ color:rgba(228, 179, 20, 0.966);
+ height:30px;
+ width: 530px;
+ white-space: nowrap;
+ top:30px;
+ left:425px;
+ 
+}
+.input{
+    background-color: rgb(250, 247, 233);
+    border: 0.7px solid rgba(228, 179, 20, 0.966);
+    height: 25px;
+    border-radius:10px;
+    width:300px;
+    font-family: monospace;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    color:rgba(228, 179, 20, 0.966);
+   }
+   .button{
+       background-color: rgb(245, 240, 223);
+       border: 0.8px solid rgba(228, 179, 20, 0.966);
+       height: 27px;
+       border-radius:10px;
+       width:80px;
+       font-family: monospace;
+       font-size: medium;
+       font-style: italic;
+       font-weight: bold;
+       color:rgba(228, 179, 20, 0.966);
+       
+   }
+.label{
+    
+    font-family: monospace;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+    color:rgba(228, 179, 20, 0.966);
+}

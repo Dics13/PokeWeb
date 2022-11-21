@@ -1,0 +1,32 @@
+.body{
+ height:25px;
+ display:inline-block;
+ width:400px;
+
+}
+.input{
+ background-color: rgb(250, 247, 233);
+ border: 0.7px solid rgba(228, 179, 20, 0.966);
+ height: 25px;
+ border-radius:10px;
+ width:300px;
+ font-family: monospace;
+ font-size: medium;
+ font-style: italic;
+ font-weight: bold;
+ color:rgba(228, 179, 20, 0.966);
+}
+.button{
+    background-color: rgb(245, 240, 223);
+    border: 0.8px solid rgba(228, 179, 20, 0.966);
+    height: 27px;
+    border-radius:10px;
+    width:80px;
+    font-family: monospace;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    color:rgba(228, 179, 20, 0.966);
+    
+}
+

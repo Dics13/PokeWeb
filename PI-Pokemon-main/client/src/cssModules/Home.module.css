@@ -1,0 +1,65 @@
+
+.div{
+    
+    position: relative;
+    padding: 530px 600px;
+    background-image:url("https://p4.wallpaperbetter.com/wallpaper/640/13/278/pokemon-yellow-eletric-thunder-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size:1500px 1200px;
+}   
+
+.nav{
+    position: absolute;
+    left: 20px;
+    top:30px;
+    
+   
+} 
+.div0{
+    position:absolute;
+    top:550px;
+    height:400px; 
+    left:180px;
+}
+.div1{
+    position:absolute;
+    top:120px;
+    left:1000px;
+    right: 20px;
+}
+.div2{
+    
+    position:absolute;
+    top:120px;
+    left:20px;
+    right: 20px;
+    width:300px;
+}
+
+.button{
+    position:absolute;
+    top: 50px;
+    width: 200px;
+    left: 1000px;
+    background-color: rgb(245, 240, 223);
+    border: 0.8px solid rgba(228, 179, 20, 0.966);
+    height: 50px;
+    border-radius:10px;
+    font-family: monospace;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    color:rgba(228, 179, 20, 0.966);
+   
+}
+.header{
+    position: absolute;
+    font-family: monospace;
+    font-size:90px;
+    font-style: italic;
+    font-weight: bold;
+    color:rgba(228, 179, 20, 0.966);
+    top:5px;
+    left:450px;
+    
+}

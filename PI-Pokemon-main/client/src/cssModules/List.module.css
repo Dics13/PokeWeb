@@ -1,0 +1,16 @@
+.div{
+    background-color: rgb(245, 240, 223);
+    border: 0.8px solid #e4b314f6;
+    height: 40px;
+    text-align: center;
+    width:50px;
+    border-radius: 5px;
+}
+.font{
+    font-family: monospace;
+    font-size: smaller;
+    font-style: italic;
+    font-weight: bold;
+    color:rgba(228, 179, 20, 0.966);
+    
+}

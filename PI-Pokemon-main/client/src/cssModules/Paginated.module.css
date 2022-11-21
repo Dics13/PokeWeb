@@ -1,0 +1,33 @@
+
+.buttons{
+ display: flex;
+ justify-content: center;
+}
+
+
+.button{
+    background-color: rgb(245, 240, 223);
+    border: 0.8px solid rgba(228, 179, 20, 0.966);
+    height: 27px;
+    border-radius:10px;
+    width:60px;
+    color:rgba(228, 179, 20, 0.966);
+    
+}
+.container{
+ display:grid;
+ grid-template-columns: repeat(5, 1fr);
+ grid-template-rows: repeat(2, 1fr);
+ background-color: rgb(245, 240, 223);
+ width:1000px;
+ height:400px;
+ grid-row-gap:1px;
+ border-radius:10px;
+ border: 3px solid rgba(228, 179, 20, 0.966);
+}
+.h1{
+  background-color: blueviolet;
+  width:50px;
+  height: 50px;
+  font-size: small;
+}

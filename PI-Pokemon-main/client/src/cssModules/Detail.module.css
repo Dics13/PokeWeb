@@ -1,0 +1,93 @@
+.div0{
+background-image:url("../image/pikachus.jpg");
+display:flex;
+justify-items: center;
+justify-content: center;
+padding: 40px 90px;
+border: 30px solid black;
+}
+
+.div{
+background-image:url("../image/fondo.jpg");
+ width: 500px;
+ height: 500px;
+ position: relative;
+ border-radius:10px;
+}
+.header{
+   background-image:url("https://p4.wallpaperbetter.com/wallpaper/640/13/278/pokemon-yellow-eletric-thunder-wallpaper-preview.jpg");
+   background-size:500px 300px;
+   height: 240px;
+   border-radius:10px;
+}  
+.img1{
+ border-radius:50%;
+ height: 170px;
+ width:120px;
+ background-color: rgb(250, 247, 233);
+ border: 3px solid rgba(247, 243, 48, 0.966);
+  position: relative;
+  left:330px;
+  top:30px;
+}
+.name{
+   font-family: monospace;
+   font-size: xx-large;
+   font-style: italic;
+   font-weight:bold;
+   color:rgba(247, 243, 48, 0.966);
+   width:70px;
+   position: relative;
+   left:300px;
+   top:20px;
+}
+.name:first-letter {
+
+   text-transform: uppercase;
+
+}
+.grid{
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   grid-template-rows: repeat(3, 1fr);
+   grid-row-gap:15px;
+   grid-column-gap:20px;
+   width:350px;
+   position: relative;
+   left:80px;
+   top:50px;
+}
+.number{
+   font-family: monospace;
+   font-size:larger;
+   font-style: italic;
+   font-weight: bold;
+   color:rgba(228, 179, 20, 0.966);
+   background-color: rgb(250, 247, 233);
+   border: 0.7px solid rgba(228, 179, 20, 0.966);
+   height: 20px;
+   border-radius:10px;
+   width:150px;
+   text-align: center;
+ 
+}
+.type{
+   font-family: monospace;
+   font-size:x-large;
+   font-style: italic;
+   font-weight: bold;
+   color:rgba(228, 179, 20, 0.966); 
+   background-color: rgb(250, 247, 233);
+   text-align: center;
+   border: 0.7px solid rgba(228, 179, 20, 0.966);
+   border-radius:50%;
+   position: relative;
+   top:25px;
+}
+.back{
+   background-color: rgb(250, 247, 233);
+ border: 0.7px solid rgba(228, 179, 20, 0.966);
+ height: 25px;
+ border-radius:10px;
+ width:100px;
+}
